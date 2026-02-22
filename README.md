@@ -4,11 +4,11 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 
 Metrics Details:
 - Display a summary of total sales, profits and quantity for the current year and the previous year.
-– Compare sales performance by different product subcategories for the current year and the previous year.
-– Include a comparison of sales with profit.
-– Present weekly sales and profit data for the current year.
-– Display the average weekly values.
-– Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+- Compare sales performance by different product subcategories for the current year and the previous year.
+- Include a comparison of sales with profit.
+- Present weekly sales and profit data for the current year.
+- Display the average weekly values.
+- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
 Customer Dashboard | Requirements
 The customer dashboard aims to provide an overview of customer data.
